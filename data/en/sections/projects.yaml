@@ -1,0 +1,96 @@
+# section information
+section:
+    name: Projects
+    id: projects
+    enable: true
+    weight: 5
+    showOnNavbar: true
+    # Can optionally hide the title in sections
+    # hideTitle: true
+
+# filter buttons
+buttons:
+    - name: All
+      filter: "all"
+    - name: Hobby
+      filter: "hobby"
+    - name: Academic
+      filter: "academic"
+    - name: Homework
+      filter: "homework"
+
+# your projects
+projects:
+    - name: Deep learning library from scratch
+      logo: /images/sections/projects/github.png
+      role: Creator
+      timeline: "February 2022 - Present"
+      repo: https://github.com/Clement-W/NNJulia.jl # If your project is a public repo on GitHub, then provide this link. it will show star count.
+      #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+      summary: Neural network library with automatic differentiation made from scratch in Julia.
+      tags: ["hobby", "deep learning", "homework", "Julia"]
+
+    - name: Augmented Reality from scratch
+      logo: /images/sections/projects/github.png
+      role: Homework
+      timeline: "November - December 2021"
+      repo: https://github.com/Clement-W/Augmented-Reality-From-Scratch
+      summary: Incrustation of 2D and 3D content on a dynamic surface in a video. To do so, several image processing algorithms have been implemented from scratch in Matlab.
+      tags: ["homework", "image processing", "Matlab", "2D and 3D geometry"]
+
+    - name: Activation Maps Extractor tool
+      logo: /images/sections/projects/github.png
+      role: Creator
+      timeline: "November 2021"
+      repo: https://github.com/Clement-W/Activation-Maps-Visualiser-PT
+      summary: A PyTorch script that can be used to extract the activation maps of a specific, or all the CNN's layers.
+      tags: ["hobby", "deep learning", "CNN", "Python", "PyTorch"]
+
+    - name: Linear Regression with Gradient descent from scratch
+      logo: /images/sections/projects/github.png
+      role: Creator
+      timeline: "February 2021"
+      repo: https://github.com/Clement-W/Linear-Regression-SGD
+      summary: Implementation of gradient descent algorithms (GD,SGD,BGD,...) for linear regression.
+      tags: ["hobby", "ML", "Python"]
+
+    - name: Data Analysis Project
+      logo: /images/sections/skills/R.png
+      role: Homework
+      timeline: "June 2021"
+      url: "files/DS1A.pdf"
+      summary: Study the correlations of the musical and cinematographical tastes of young people.
+      tags: ["homework", "Statistics", "Data Science", "PCA", "R"]
+
+    - name: Artifacts RogueLike
+      logo: /images/sections/projects/github.png
+      role: Homework
+      timeline: "April - May 2021"
+      repo: https://github.com/Clement-W/Artifacts-RogueLike
+      summary: A roguelike game developped in C#. As a space adventurer, you need to find the 3 legendary artifacts as fast as possible!
+      tags: ["homework", "GameDev", "C#"]
+
+    - name: Quarto in Prolog
+      logo: /images/sections/projects/github.png
+      role: Homework
+      timeline: "February - March 2022"
+      repo: https://github.com/Clement-W/Quarto-Prolog
+      summary: Implementation of the board game Quarto in Prolog, with 3 levels of AI, including a variant of the MinMax algorithm.
+      tags: ["homework", "Symbolic AI", "MinMax", "Prolog"]
+
+    - name: Statistical Modeling Project
+      logo: /images/sections/skills/R.png
+      role: Homework
+      timeline: "October 2021"
+      url: "files/DS2A.pdf"
+      summary: Model the sales of a gas station according to the variables available in the data set.
+      tags: ["Multiple Linear Regression", "Statistics", "Data Science", "R"]
+
+    - name: Human Resilience to Giant Asteroid Impact
+      logo:
+      role: Collaborator
+      timeline: "September 2020 - May 2021"
+      url: "https://hal.archives-ouvertes.fr/hal-03365973"
+      summary: Trans-disciplinary research project that has led to a scientific article presented by our tutor at the Internation Astronautical Congress 2021 at Dubai.
+      tags:
+          ["academic", "Transdisciplinary", "Planetary science", "Astrophysics"]

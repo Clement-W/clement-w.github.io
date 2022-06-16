@@ -1,0 +1,84 @@
+# section information
+section:
+    name: Education
+    id: education
+    template: sections/education.html # Use "sections/education-alt.html for alternate template.
+    enable: true
+    weight: 4
+    showOnNavbar: true
+    # Can optionally hide the title in sections
+    # hideTitle: true
+
+degrees:
+    - name: Exchange Program
+      icon: fa-graduation-cap
+      timeframe: 2022
+      presentation: UC Davis is a tier-one research university and highly ranked in the U.S. and the world. With 103 academic majors, 101 graduate degrees and 6 professional schools, students have limitless opportunities to grow academically, professionally and personally.
+      institution:
+          name: University of California Davis
+          url: "https://www.ucdavis.edu/"
+      takenCourses: #(optional)
+          # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+          showGrades: false
+          collapseAfter: 3
+          courses:
+              - name: Machine Learning
+              - name: Statistical Modeling
+              - name: Algorithms Design
+
+    - name: Master degree of Engineering in Computer Science and Cognitive Sciences
+      icon: fa-graduation-cap
+      timeframe: 2020-2023
+      presentation: The Graduate  School of Cognitive Engineering is a Bordeaux INP engineering school and is a member of the Conférence des Grandes Ecoles. Its unique program in France provides engineers with dual expertise in computer science, IT and in cognitive science.
+      institution:
+          name: ENSC - Bordeaux INP
+          url: "https://www.bordeaux-inp.fr/en"
+      takenCourses: #(optional)
+          # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+          showGrades: false
+          collapseAfter: 3
+          courses:
+              - name: Applied Mathematics (Statistics, Probability, Optimization, Dynamic Systems)
+              - name: Artificial Intelligence
+              - name: Data science
+              - name: Signal and Image Processing
+              - name: Control System
+              - name: Cognitive Engineering
+              - name: User-centered Design
+              - name: Computer Science (Web and Mobile Development, Databases, Programming)
+      extracurricularActivities: #(optional)
+          - Member of the student arts association
+          - Head of the music association
+
+    - name: Associate's degree in Computer Science
+      icon: fa-graduation-cap
+      timeframe: 2018-2020
+      presentation: The University Technology Diploma in Computer science (DUT Informatique) is an intense 2-year training focused on computer science, and applied mathematics for computer science.
+      institution:
+          name: IUT de Vannes
+          url: "https://www.iutvannes.fr/"
+      takenCourses: #(optional)
+          # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+          showGrades: false
+          collapseAfter: 3
+          courses:
+              - name: Data Structures and Algorithm
+              - name: Advanced programming
+              - name: Discrete Mathematics
+              - name: Calculus
+              - name: Linear Algebra
+              - name: Statistics
+              - name: Graphs
+              - name: Introduction to Artificial Intelligence
+              - name: Introduction to Cybersecurity
+              - name: Web and Mobile Development
+              - name: Database programming and administration
+              - name: Networks
+              - name: Operating Systems
+
+    - name: Higher Secondary School - Baccalaureate in Science with high honours
+      icon: fa-school
+      timeframe: 2015-2018
+      presentation: The baccalauréat is a French national acedemic qualification obtained at the end of the secondary education. The Science major prepares students to continue their studies in scientific fields such as medicine, engineering and natural sciences.
+      institution:
+          name: Lycée Émile Littré
