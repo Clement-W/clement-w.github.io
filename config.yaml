@@ -61,6 +61,6 @@ params:
             enable: true
 
         analytics:
-        enabled: true
-        goatCounter:
-            code: clement-w
+            enabled: true
+            goatCounter:
+                code: clement-w
