@@ -53,9 +53,8 @@ params:
 
     analytics:
         enabled: true
-        # Google Analytics
-        google:
-        id: TODO
+        goatCounter:
+            code: clement-w
 
     # Configure various features of this theme
     features:
