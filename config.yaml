@@ -51,11 +51,6 @@ params:
     newsletter:
         enable: false
 
-    analytics:
-        enabled: true
-        goatCounter:
-            code: clement-w
-
     # Configure various features of this theme
     features:
         # Enable and configure portfolio
@@ -64,3 +59,8 @@ params:
         # Enable and configure blog posts
         blog:
             enable: true
+
+        analytics:
+        enabled: true
+        goatCounter:
+            code: clement-w
