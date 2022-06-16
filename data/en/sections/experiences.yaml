@@ -25,15 +25,15 @@ experiences:
             # end: Dec 2020
             # give some points about what was your responsibilities at the company.
             responsibilities:
-                - TODO
-                - TODO
-                - TODO
+                - Working on dimension reduction with a thresholded variant of the Sliced Inverse Regression (SIR) method.
+                - A R package is under development.
+                - ...
 
     - company:
           name: Pollen Robotics
           url: "https://www.pollen-robotics.com/"
           location: Bordeaux, France
-          overview: Pollen Robotics is a Startup working on Reachy, an expressive open-source humanoid robot programmable with Python and ROS. Developed with stat-of-the-art AI & Robotics technologies, this robot can also be remotly teleoperated with VR.
+          overview: Pollen Robotics is a Startup working on Reachy, an expressive open-source humanoid robot programmable with Python and ROS. Developed with state-of-the-art AI & Robotics technologies, this robot can also be remotely teleoperated with VR.
       positions:
           - designation: Robotics Intern
             start: Jun 2021
@@ -46,7 +46,7 @@ experiences:
           name: Smartmoov
           url: "https://www.linkedin.com/company/smartmoovfr/"
           location: Rennes, France
-          overview: Smartmoov is a Startup that enhances learning to drive using an application linked to a in-vehicle camera. The application automatically detects the student's mistakes and creates statistics on the driving lesson.
+          overview: Smartmoov is a Startup that enhances learning to drive using an application linked to an in-vehicle camera. The application automatically detects the student's mistakes and creates statistics on the driving lesson.
       positions:
           - designation: Computer Vision Intern
             start: Apr 2020

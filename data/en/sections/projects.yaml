@@ -67,7 +67,7 @@ projects:
       role: Homework
       timeline: "April - May 2021"
       repo: https://github.com/Clement-W/Artifacts-RogueLike
-      summary: A roguelike game developped in C#. As a space adventurer, you need to find the 3 legendary artifacts as fast as possible!
+      summary: A roguelike game developed in C#. As a space adventurer, you need to find the 3 legendary artifacts as fast as possible!
       tags: ["homework", "GameDev", "C#"]
 
     - name: Quarto in Prolog
@@ -83,7 +83,7 @@ projects:
       role: Homework
       timeline: "October 2021"
       url: "files/DS2A.pdf"
-      summary: Model the sales of a gas station according to the variables available in the data set.
+      summary: Model the sales of a gas station according to the variables available in the dataset.
       tags: ["Multiple Linear Regression", "Statistics", "Data Science", "R"]
 
     - name: Human Resilience to Giant Asteroid Impact

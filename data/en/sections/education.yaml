@@ -12,7 +12,7 @@ section:
 degrees:
     - name: Exchange Program
       icon: fa-graduation-cap
-      timeframe: 2022
+      timeframe: Starting September 2022
       presentation: UC Davis is a tier-one research university and highly ranked in the U.S. and the world. With 103 academic majors, 101 graduate degrees and 6 professional schools, students have limitless opportunities to grow academically, professionally and personally.
       institution:
           name: University of California Davis
@@ -62,13 +62,13 @@ degrees:
           showGrades: false
           collapseAfter: 3
           courses:
-              - name: Data Structures and Algorithm
+              - name: Data Structures and Algorithms
               - name: Advanced programming
               - name: Discrete Mathematics
               - name: Calculus
               - name: Linear Algebra
               - name: Statistics
-              - name: Graphs
+              - name: Graph Theory
               - name: Introduction to Artificial Intelligence
               - name: Introduction to Cybersecurity
               - name: Web and Mobile Development
@@ -79,6 +79,6 @@ degrees:
     - name: Higher Secondary School - Baccalaureate in Science with high honours
       icon: fa-school
       timeframe: 2015-2018
-      presentation: The baccalauréat is a French national acedemic qualification obtained at the end of the secondary education. The Science major prepares students to continue their studies in scientific fields such as medicine, engineering and natural sciences.
+      presentation: The baccalauréat is a French national academic qualification obtained at the end of the secondary education. The Science major prepares students to continue their studies in scientific fields such as medicine, engineering and natural sciences.
       institution:
           name: Lycée Émile Littré
