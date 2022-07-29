@@ -30,7 +30,15 @@ projects:
       summary: Neural network library with automatic differentiation made from scratch in Julia.
       tags: ["hobby", "deep learning", "homework", "Julia"]
 
-    - name: Augmented Reality from scratch
+    - name: R package for variable selection
+      logo: /images/sections/projects/github.png
+      role: Co-author
+      timeline: "May - July 2022"
+      repo: https://github.com/Clement-W/SIRthresholded
+      summary: R package that allows to perform variable selection with a thresholded version of the Sliced Inverse Regression (SIR) method. (paper in progress)
+      tags: ["academic", "statistics", "SIR", "research"]
+
+    - name: Augmented reality from scratch
       logo: /images/sections/projects/github.png
       role: Homework
       timeline: "November - December 2021"
@@ -38,7 +46,7 @@ projects:
       summary: Incrustation of 2D and 3D content on a dynamic surface in a video. To do so, several image processing algorithms have been implemented from scratch in Matlab.
       tags: ["homework", "image processing", "Matlab", "2D and 3D geometry"]
 
-    - name: Activation Maps Extractor tool
+    - name: Activation maps extractor tool
       logo: /images/sections/projects/github.png
       role: Creator
       timeline: "November 2021"
@@ -46,7 +54,7 @@ projects:
       summary: A PyTorch script that can be used to extract the activation maps of a specific, or all the CNN's layers.
       tags: ["hobby", "deep learning", "CNN", "Python", "PyTorch"]
 
-    - name: Linear Regression with Gradient descent from scratch
+    - name: Linear regression with gradient descent from scratch
       logo: /images/sections/projects/github.png
       role: Creator
       timeline: "February 2021"
@@ -54,7 +62,7 @@ projects:
       summary: Implementation of gradient descent algorithms (GD,SGD,BGD,...) for linear regression.
       tags: ["hobby", "ML", "Python"]
 
-    - name: Data Analysis Project
+    - name: Data analysis project
       logo: /images/sections/skills/R.png
       role: Homework
       timeline: "June 2021"
@@ -78,7 +86,7 @@ projects:
       summary: Implementation of the board game Quarto in Prolog, with 3 levels of AI, including a variant of the MinMax algorithm.
       tags: ["homework", "Symbolic AI", "MinMax", "Prolog"]
 
-    - name: Statistical Modeling Project
+    - name: Statistical modeling project
       logo: /images/sections/skills/R.png
       role: Homework
       timeline: "October 2021"
@@ -86,11 +94,11 @@ projects:
       summary: Model the sales of a gas station according to the variables available in the dataset.
       tags: ["Multiple Linear Regression", "Statistics", "Data Science", "R"]
 
-    - name: Human Resilience to Giant Asteroid Impact
+    - name: Survival Issues after Giant Asteroid Impact
       logo:
-      role: Collaborator
+      role: Co-author
       timeline: "September 2020 - May 2021"
-      url: "https://hal.archives-ouvertes.fr/hal-03365973"
-      summary: Trans-disciplinary research project that has led to a scientific article presented by our tutor at the Internation Astronautical Congress 2021 at Dubai.
+      url: "https://artxiker.ccsd.cnrs.fr/INRIA-BORDEAUX/hal-03616479v1"
+      summary: Trans-disciplinary research project that has led to a scientific article presented by our tutor Jean-Marc Salotti at the International Astronautical Congress (IAC) 2021 at Dubai.
       tags:
           ["academic", "Transdisciplinary", "Planetary science", "Astrophysics"]
