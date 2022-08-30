@@ -25,9 +25,10 @@ experiences:
             # end: Dec 2020
             # give some points about what was your responsibilities at the company.
             responsibilities:
-                - Work on dimension reduction and variable selection with a thresholded version of the Sliced Inverse Regression (SIR) method.
-                - Developed an R package for SIR thresholded [(see on github)](https://github.com/Clement-W/SIRthresholded).
-                - Wrote a user-friendly long-form guide to use the package [(see on github pages)](https://clement-w.github.io/SIRthresholded/articles/SIRthresholded.html)
+                - Work on dimensionality reduction and variable selection with a thresholded version of the Sliced Inverse Regression (SIR) method.
+                - Developed an R package for SIR thresholded [(see on github)](https://github.com/Clement-W/SIRthresholded). The package SIRthresholded is published in CRAN.
+                - Wrote a user-friendly long-form guide to use the package [(see on github pages)](https://clement-w.github.io/SIRthresholded/articles/SIRthresholded.html).
+                - Co-authoring a paper which is still being written.
 
     - company:
           name: Pollen Robotics

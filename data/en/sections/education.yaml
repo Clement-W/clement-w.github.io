@@ -13,23 +13,24 @@ degrees:
     - name: Exchange Program
       icon: fa-graduation-cap
       timeframe: Starting September 2022
-      presentation: UC Davis is a tier-one research university and highly ranked in the U.S. and the world. With 103 academic majors, 101 graduate degrees and 6 professional schools, students have limitless opportunities to grow academically, professionally and personally.
+      presentation: UC Davis is a tier-one research university and highly ranked in the U.S. and the world.
       institution:
           name: University of California Davis
           url: "https://www.ucdavis.edu/"
       takenCourses: #(optional)
           # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
           showGrades: false
-          collapseAfter: 3
+          collapseAfter: 4
           courses:
               - name: Machine Learning
-              - name: Statistical Modeling
-              - name: Algorithms Design
+              - name: Mathematics of Deep Learning
+              - name: Algorithms Design and Analysis
+              - name: Introduction to Aerospace Science Engineering
 
     - name: Master degree of Engineering in Computer Science and Cognitive Sciences
       icon: fa-graduation-cap
       timeframe: 2020-2023
-      presentation: The Graduate  School of Cognitive Engineering is a Bordeaux INP engineering school and is a member of the Conférence des Grandes Ecoles. Its unique program in France provides engineers with dual expertise in computer science, IT and in cognitive science.
+      presentation: The Graduate  School of Cognitive Engineering is a Bordeaux INP engineering school and is a member of the Conférence des Grandes Ecoles. Its unique program in France provides engineers with dual expertise in computer science, IT and in cognitive science. This school puts a strong emphasis on human-centered design, and the importance of keeping the human in the loop.
       institution:
           name: ENSC - Bordeaux INP
           url: "https://www.bordeaux-inp.fr/en"
