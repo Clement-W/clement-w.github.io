@@ -28,6 +28,7 @@ experiences:
                 - Work on dimensionality reduction and variable selection with a thresholded version of the Sliced Inverse Regression (SIR) method.
                 - Developed an R package for SIR thresholded [(see on github)](https://github.com/Clement-W/SIRthresholded). The package SIRthresholded is published in CRAN.
                 - Wrote a user-friendly long-form guide to use the package [(see on github pages)](https://clement-w.github.io/SIRthresholded/articles/SIRthresholded.html).
+                - Participated to the JDS 2022 conference (largest statistics conference in France). [See the slides](files/jds2022.pdf)
                 - Co-authoring a paper which is still being written.
 
     - company:
