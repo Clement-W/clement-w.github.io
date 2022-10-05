@@ -18,7 +18,7 @@ company:
 #resume: "files/resume.pdf"
 
 # a summary about you
-summary: "I am a passionate student pursuing a Master of Engineering in computer science and cognitive sciences. I have done internships in research and industry on topics related to computer vision, deep learning and applied mathematics. I am very curious and I love to learn new things. I am currently looking for a 6-month internship starting February 2023!"
+summary: "I am a passionate student pursuing a Master of Engineering in computer science and cognitive sciences. I am currently in exchange at the University of California, Davis. I have done internships in research and industry on topics related to computer vision, deep learning and applied mathematics. I am very curious and I love to learn new things. I am currently looking for a 6-month internship starting February 2023!"
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -44,10 +44,10 @@ softSkills:
       percentage: 100
       color: green
     - name: Communication
-      percentage: 90
+      percentage: 100
       color: orange
     - name: Team Work
-      percentage: 90
+      percentage: 100
       color: yellow
     - name: Creativity
       percentage: 100
