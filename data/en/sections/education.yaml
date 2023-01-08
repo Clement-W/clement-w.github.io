@@ -10,9 +10,9 @@ section:
     # hideTitle: true
 
 degrees:
-    - name: Exchange Program
+    - name: Exchange Program - 4.00 GPA
       icon: fa-graduation-cap
-      timeframe: Starting September 2022
+      timeframe: Fall 2022
       presentation: UC Davis is a tier-one research university and highly ranked in the U.S. and the world.
       institution:
           name: University of California Davis

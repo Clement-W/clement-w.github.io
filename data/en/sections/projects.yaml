@@ -30,6 +30,14 @@ projects:
       summary: Neural network library with automatic differentiation made from scratch in Julia.
       tags: ["hobby", "deep learning", "homework", "Julia"]
 
+    - name: Colorization with Diffusion models
+      logo: /images/sections/projects/github.png
+      role: Group project
+      timeline: "December 2022"
+      repo: https://clement-w.github.io/colorization-report/
+      summary: In depth study of the mathematical foundations of conditional diffusion models. We also started a PyTorch implementation, which is not complete.
+      tags: ["homework", "deep learning", "diffusion", "Python", "PyTorch"]
+
     - name: R package for variable selection
       logo: /images/sections/projects/github.png
       role: Co-author
@@ -102,3 +110,4 @@ projects:
       summary: Trans-disciplinary research project that has led to a scientific article presented by our tutor Jean-Marc Salotti at the International Astronautical Congress (IAC) 2021 at Dubai.
       tags:
           ["academic", "Transdisciplinary", "Planetary science", "Astrophysics"]
+
