@@ -17,7 +17,7 @@ body {
 
 .content-section {
   flex: 60%;
-  max-width: 60%;
+  /*max-width: 60%;*/
   order: 2;
   /* background-color: lightseagreen; */
   padding: 0;
@@ -29,7 +29,7 @@ body {
   background: #e5e9f2;
 }
 .toc-section {
-  flex: 20%;
+  /*flex: 20%;*/
   order: 3;
   max-width: 20%;
   /* background-color: lightpink; */
