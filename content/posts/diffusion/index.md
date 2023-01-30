@@ -1,6 +1,6 @@
 ---
 title: "Mathematics of Diffusion models"
-date: 2023-01-29T08:06:25+06:00
+date: 2023-01-30
 description: Explain the maths behind diffusion models
 hero: preview.png
 menu:
@@ -455,7 +455,7 @@ Cited as:
 Or
 
 ```
-@article{wclem2023diffusion,
+@article{clemw2023diffusion,
   title   = "Mathematics of Diffusion Models",
   author  = "Clément, W. and Brennan, W. and Vivek, S.",
   year    = "2023",
