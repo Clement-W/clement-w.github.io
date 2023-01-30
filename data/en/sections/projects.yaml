@@ -34,8 +34,8 @@ projects:
       logo: /images/sections/projects/github.png
       role: Group project
       timeline: "December 2022"
-      repo: https://clement-w.github.io/colorization-report/
-      summary: In depth study of the mathematical foundations of conditional diffusion models. We also started a PyTorch implementation, which is not complete.
+      repo: https://github.com/alexchandler100/MAT_180/
+      summary: In depth study of the mathematical foundations of conditional diffusion models (see the post on this website). We also started a PyTorch implementation, which is not complete.
       tags: ["homework", "deep learning", "diffusion", "Python", "PyTorch"]
 
     - name: R package for variable selection
