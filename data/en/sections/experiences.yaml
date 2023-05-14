@@ -10,6 +10,28 @@ section:
 
 # Your experiences
 experiences:
+
+
+    - company:
+          name: Ubisoft La Forge (research center of Ubisoft)
+          url: "https://montreal.ubisoft.com/en/our-commitments/research-and-development/"
+          location: Bordeaux, France
+          # company overview
+          overview: Ubisoft La Forge is an open research and development initiative that brings together researchers and experts to bridge the gap between academic research and innovation in the video game world.
+      positions:
+          - designation: Research Intern
+            start: Feb 2023
+            end: Aug 2023
+
+            # don't provide end date if you are currently working there. It will be replaced by "Present"
+            # end: Dec 2020
+            # give some points about what was your responsibilities at the company.
+            responsibilities:
+                - Implementation and benchmark the recent state-of-the-art methods like NeRF, SIREN, Instant-NGP, etc.
+                - Development of new techniques for 2D and 3D real-time neural rendering with low memory footprint, and achieve state-of-the-art results
+                - Neural rendering prototype being integrated into a Ubisoft game
+                - Preparing a scientific publication
+
     - company:
           name: INRIA Research Laboratory
           url: "https://www.inria.fr/en"
@@ -29,7 +51,7 @@ experiences:
                 - Developed an R package for SIR thresholded [(see on github)](https://github.com/Clement-W/SIRthresholded). The package SIRthresholded is published in CRAN.
                 - Wrote a user-friendly long-form guide to use the package [(see on github pages)](https://clement-w.github.io/SIRthresholded/articles/SIRthresholded.html).
                 - Participated to the JDS 2022 conference (largest statistics conference in France). [See the slides](files/jds2022.pdf)
-                - Co-authoring a paper which is still being written.
+                - Co-authoring a paper in the process of being submitted for the Computational Statistics journal.
 
     - company:
           name: Pollen Robotics
