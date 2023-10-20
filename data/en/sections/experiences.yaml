@@ -30,7 +30,7 @@ experiences:
                 - Implementation and benchmark the recent state-of-the-art methods like NeRF, SIREN, Instant-NGP, etc.
                 - Development of new techniques for 2D and 3D real-time neural rendering with low memory footprint, and achieve state-of-the-art results
                 - Neural rendering prototype being integrated into a Ubisoft game
-                - Preparing a scientific publication
+                - Scientific paper in the process of being submitted
 
     - company:
           name: INRIA Research Laboratory
@@ -63,6 +63,7 @@ experiences:
             start: Jun 2021
             end: Jul 2021
             responsibilities:
+                - Study different methods to improve the grasping operation while teleoperating Reachy.
                 - Implement a force regulation algorithm to manage grasping when Reachy is teleoperated with VR.
                 - Add haptic feedback to the VR controllers when the user is using Reachy's grippers.
 

@@ -10,6 +10,27 @@ section:
     # hideTitle: true
 
 degrees:
+
+    - name: Master MVA (Mathematics, Vision, Learning)
+      icon: fa-graduation-cap
+      timeframe: 2023-2024
+      presentation: The MVA (Mathematics, Vision, Learning) is a Master 2 Research program created in 1996 by Robert Azencott. It is run by the Mathematics Department of ENS Paris-Saclay, co-accredited with the Institut Polytechnique de Paris, and shared with the École Nationale des Ponts et Chaussées and Université Paris Cité.
+      institution:
+          name: University of California Davis
+          url: "https://www.ucdavis.edu/"
+      takenCourses: #(optional)
+          # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+          showGrades: false
+          collapseAfter: 4
+          courses:
+              - name: Convex optimization and applications in machine learning
+              - name: Introduction to statistical learning
+              - name: Machine learning for time series
+              - name: Geometric data analysis
+              - name: Introduction to digital imaging
+              - name: Reproducible research
+
+
     - name: Exchange Program - 4.00 GPA
       icon: fa-graduation-cap
       timeframe: Fall 2022
@@ -40,8 +61,7 @@ degrees:
           collapseAfter: 3
           courses:
               - name: Applied Mathematics (Statistics, Probability, Optimization, Dynamic Systems)
-              - name: Artificial Intelligence
-              - name: Data science
+              - name: Machine Learning, Deep Learning and symbolic AI
               - name: Signal and Image Processing
               - name: Control System
               - name: Cognitive Engineering
