@@ -16,8 +16,8 @@ degrees:
       timeframe: 2023-2024
       presentation: The MVA (Mathematics, Vision, Learning) is a Master 2 Research program created in 1996 by Robert Azencott. It is run by the Mathematics Department of ENS Paris-Saclay, co-accredited with the Institut Polytechnique de Paris, and shared with the École Nationale des Ponts et Chaussées and Université Paris Cité.
       institution:
-          name: University of California Davis
-          url: "https://www.ucdavis.edu/"
+          name: École Normale Supérieure Paris-Saclay
+          url: "https://www.master-mva.com/"
       takenCourses: #(optional)
           # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
           showGrades: false
