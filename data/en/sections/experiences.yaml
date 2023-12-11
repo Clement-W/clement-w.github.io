@@ -30,7 +30,7 @@ experiences:
                 - Implementation and benchmark the recent state-of-the-art methods like NeRF, SIREN, Instant-NGP, etc.
                 - Development of new techniques for 2D and 3D real-time neural rendering with low memory footprint, and achieve state-of-the-art results
                 - Neural rendering prototype being integrated into a Ubisoft game
-                - Scientific paper in the process of being submitted
+                - Pre-print submitted to a peer-reviewed conference [Weinreich, C., de Oliveira, L., Houdard, A., & Nader, G. (2023). Real-Time Neural Materials using Block-Compressed Features. arXiv preprint arXiv:2311.16121](https://arxiv.org/abs/2311.16121). 
 
     - company:
           name: INRIA Research Laboratory
@@ -49,7 +49,7 @@ experiences:
             responsibilities:
                 - Work on dimensionality reduction and variable selection with a thresholded version of the Sliced Inverse Regression (SIR) method.
                 - Developed an R package for SIR thresholded [(see on github)](https://github.com/Clement-W/SIRthresholded). The package SIRthresholded is published in CRAN.
-                - Wrote a user-friendly long-form guide to use the package [(see on github pages)](https://clement-w.github.io/SIRthresholded/articles/SIRthresholded.html).
+                - Wrote a vignette explaining the method and how to use the package [(see on github pages)](https://clement-w.github.io/SIRthresholded/articles/SIRthresholded.html).
                 - Participated to the JDS 2022 conference (largest statistics conference in France). [See the slides](files/jds2022.pdf)
                 - Co-authoring a paper in the process of being submitted for the Computational Statistics journal.
 

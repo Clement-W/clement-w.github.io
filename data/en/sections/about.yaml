@@ -20,10 +20,9 @@ company:
 # a summary about you
 summary: "I am a passionate student at the research master MVA (Mathematics, Vision, Learning) at 
 ENS Paris-Saclay. I graduated in 2023 from the Master of Engineering in computer science and 
-cognitive sciences (cognitics) at ENSC - Bordeaux INP. I also studied at University of California
-Davis in Fall 2022 as an exchange student. I have research internship experiences in applied mathematics and 
-machine learning at Inria, Ubisoft La Forge, and tech startups such as Pollen Robotics. I am looking
-for internship and PhD opportunities for 2024, don't hesitate to contact me! Here is an [updated CV](files/cv_weinreich_28092023.pdf)"
+cognitive sciences (cognitics) at ENSC - Bordeaux INP. I have research internship experiences in applied mathematics and 
+machine learning at Inria and Ubisoft La Forge. I am looking for internship and PhD opportunities for 2024, don't hesitate to contact me! Here is an [updated CV](files/cv_weinreich_28092023.pdf).
+Check out my latest project on introducing Riemannian geometry in the latent space of Variational Autoencoders [(Github)](https://github.com/Clement-W/latent_space_oddity_MVA)!"
 
 # your social links
 # give as many as you want. use font-awesome for the icons.

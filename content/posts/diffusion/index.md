@@ -15,7 +15,7 @@ math: true
 
 ### Introduction
 
-This blog post aims to develop and explain the mathematical foundations of diffusion models [^7], and image-to-image diffusion models [^8] [^9]. This work is part of a larger project on image colorization using diffusion, which was done in collaboration with Brennan Whitfield, and Vivek Shome ([See our work here](https://github.com/alexchandler100/MAT_180/tree/main/colorized)). This blog post is inspired by Lilian Weng's blog post on diffusion models [^1], but contains more details in the mathematical derivations, which may help some people in their understanding of diffusion models. 
+This blog post aims to develop and explain the mathematical foundations of diffusion models [^7], and image-to-image diffusion models [^8] [^9]. This work is part of a larger project on image colorization using diffusion, which was done in collaboration with Brennan Whitfield, and Vivek Shome ([See our work here](https://github.com/alexchandler100/MAT_180/tree/main/colorized)). This blog post is inspired by Lilian Weng's blog post on diffusion models [^1], but contains more details in the mathematical derivations, which may help in understanding certain aspects. 
 
 If you find any mistakes, reasoning problems or other, do not hesitate to contact me, I would be happy to improve this work with your help.
 

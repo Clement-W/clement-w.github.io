@@ -21,10 +21,30 @@ buttons:
 
 # your projects
 projects:
+
+    - name: Latent space oddity, on the curvature of deep generative models
+      logo: /images/sections/projects/github.png
+      role: Co-author
+      timeline: "October - December 2023"
+      repo: https://github.com/Clement-W/latent_space_oddity_MVA # If your project is a public repo on GitHub, then provide this link. it will show star count.
+      #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+      summary: Conducted a theoretical and experimental analysis of the latent space in Variational Autoencoders using Riemannian geometry.
+      tags: ["academic", "deep learning", "geometry", "pytorch"]
+
+
+    - name: Texture synthesis based on semi-descrete optimal transport in patch space (In progress)
+      #logo: /images/sections/projects/github.png
+      role: Co-author
+      timeline: "November 2023 - present"
+      #repo: https://github.com/Clement-W/latent_space_oddity_MVA # If your project is a public repo on GitHub, then provide this link. it will show star count.
+      #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+      summary: Explored a texture synthesis model that applies local transformations to Gaussian random fields by solving a semi-discrete optimal transport problem on patch space.
+      tags: ["academic", "deep learning", "geometry", "pytorch"]
+
     - name: Deep learning library from scratch
       logo: /images/sections/projects/github.png
       role: Creator
-      timeline: "February 2022 - Present"
+      timeline: "February 2022 - April 2022"
       repo: https://github.com/Clement-W/NNJulia.jl # If your project is a public repo on GitHub, then provide this link. it will show star count.
       #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
       summary: Neural network library with automatic differentiation made from scratch in Julia.
