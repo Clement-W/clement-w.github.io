@@ -1,6 +1,6 @@
 # This section has manually been transformed into an interest section
 section:
-    name: Interests
+    name: Some interests
     id: accomplishments
     enable: true
     weight: 6

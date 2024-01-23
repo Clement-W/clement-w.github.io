@@ -29,12 +29,17 @@ degrees:
               - name: Geometric data analysis
               - name: Introduction to digital imaging
               - name: Reproducible research
+              - name: Generative models
+              - name: Learning and generation by probability sampling
+              - name: Advanced deep learning
+              - name: 3D Point Clouds and Modelisation
+              - name: Inverse problems and imaging, statistical and stochastic approaches
 
 
     - name: Exchange Program - 4.00 GPA
       icon: fa-graduation-cap
       timeframe: Fall 2022
-      presentation: UC Davis is a tier-one research university and highly ranked in the U.S. and the world.
+      presentation: UC Davis is a tier-one research university in the US.
       institution:
           name: University of California Davis
           url: "https://www.ucdavis.edu/"
