@@ -21,8 +21,9 @@ company:
 summary: "I am a passionate student at the research master MVA (Mathematics, Vision, Learning) at 
 ENS Paris-Saclay. I graduated in 2023 from the Master of Engineering in computer science and 
 cognitive sciences (cognitics) at ENSC - Bordeaux INP. I have research internship experiences in applied mathematics and 
-machine learning at Inria and Ubisoft La Forge. I am looking for internship and PhD opportunities for 2024, don't hesitate to contact me! Here is an [updated CV](files/cv_weinreich_28092023.pdf).
-Two of my latest projects include Riemannian Geometry for VAEs [(Github)](https://github.com/Clement-W/latent_space_oddity_MVA), and texture synthesis using semi-discrete optimal transport [(Github)](https://github.com/Clement-W/TextureOptimalTransport_MVA)."
+machine learning at Inria and Ubisoft La Forge, here is an [updated CV](files/cv_weinreich_28092023.pdf). Don't hesitate to check my
+latest posts where I present some of my research projects. Also, got my first publication [Real-Time Neural Materials with Block-Compressed Features](https://gnader.github.io/publications/2024-neural-textures.html)
+accepted at Eurographics 2024!"
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -40,19 +41,19 @@ socialLinks:
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
-softSkills:
-    - name: Curiosity
-      percentage: 100
-      color: blue
-    - name: Passion
-      percentage: 100
-      color: green
-    - name: Communication
-      percentage: 100
-      color: orange
-    - name: Team Work
-      percentage: 100
-      color: yellow
-    - name: Creativity
-      percentage: 100
-      color: pink
+# softSkills:
+#     - name: Curiosity
+#       percentage: 100
+#       color: blue
+#     - name: Passion
+#       percentage: 100
+#       color: green
+#     - name: Communication
+#       percentage: 100
+#       color: orange
+#     - name: Team Work
+#       percentage: 100
+#       color: yellow
+#     - name: Creativity
+#       percentage: 100
+#       color: pink

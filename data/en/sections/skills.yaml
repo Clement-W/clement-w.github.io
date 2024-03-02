@@ -13,7 +13,7 @@ section:
 skills:
     - name: Python
       logo: "/images/sections/skills/python.png"
-      summary: "Very comfortable with Python since I use this language regularly. I can use various ML or DL frameworks such as scikit-learn, Keras, PyTorch, numpy, pandas, ect."
+      summary: "Very comfortable with Python since I use this language regularly. I can use various ML or DL frameworks with a preference for PyTorch."
 
     - name: Julia
       logo: "/images/sections/skills/julia.png"
@@ -21,7 +21,7 @@ skills:
 
     - name: R
       logo: "/images/sections/skills/R.png"
-      summary: "Performed several statistics labs in R for data analysis, inference, modeling, etc. I also developed an R library for thresholded Sliced Inverse Regression."
+      summary: "Performed several statistics labs in R for data analysis, inference, modeling, etc. I also developed an open source R library for thresholded Sliced Inverse Regression."
 
     - name: Matlab
       logo: "/images/sections/skills/matlab.png"
@@ -41,8 +41,8 @@ skills:
 
     - name: Git
       logo: "/images/sections/skills/git.png"
-      summary: "Experienced with git-based development and continuous integration. I use Github regularly and I have already used Gitlab. "
+      summary: "Experienced with git-based development and continuous integration. I use Github regularly for my personal projects."
 
     - name: Linux
       logo: "/images/sections/skills/linux.png"
-      summary: "I have been using Linux distributions as my main operating system for 5 years now."
+      summary: "I have been using Linux distributions as my main operating system for 6 years now."
