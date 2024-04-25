@@ -22,6 +22,22 @@ buttons:
 # your projects
 projects:
 
+    - name: Neural Optimal Transport for Generative Modeling
+      logo: /images/sections/projects/github.png
+      role: Co-author
+      timeline: "March 2024"
+      url: "files/NOT_report.pdf"
+      summary: Theoretical and empirical study of the use of Weak Optimal Transport in generative modeling.
+      tags: ["academic", "pytorch", "optimal transport", "kernel methods"]
+
+    - name: Analysis of 3D Gaussian Splatting
+      logo: /images/sections/projects/github.png
+      role: Single author
+      timeline: "February - March 2024"
+      url: "files/3DGS_report.pdf"
+      summary: In depth analysis of the 3DGS method from a conceptual and experimental point of view to understand its limitations and potential improvements.
+      tags: ["academic", "pytorch", "rendering", "graphics"]
+
     - name: Latent space oddity, on the curvature of deep generative models
       logo: /images/sections/projects/github.png
       role: Co-author
