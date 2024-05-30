@@ -26,7 +26,7 @@ experiences:
             # end: Dec 2020
             # give some points about what was your responsibilities at the company.
             responsibilities:
-                - Working on learning extreme deformations of 3D representations with machine learning, ensuring fidelity to real-world physics.
+                - Developing physics-driven learning approaches to create generalizable and interpretable models for motion dynamics and extreme deformations.
 
     - company:
           name: Ubisoft La Forge (research center of Ubisoft)
