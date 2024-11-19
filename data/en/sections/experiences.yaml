@@ -12,13 +12,29 @@ section:
 experiences:
 
     - company:
+          name: Institut Pasteur
+          url: "https://research.pasteur.fr/en/team/machine-learning-for-integrative-genomics/"
+          location: Paris, France
+          # company overview
+          overview: PhD in a joint collaboration between the Machine Learning for Integrative Genomics team led by Laura Cantini at Institut Pasteur and the Pinello Lab led by Luca Pinello at Harvard Medical School. 
+      positions:
+          - designation: PhD Student
+            start: Nov 2024
+
+            # don't provide end date if you are currently working there. It will be replaced by "Present"
+            # end: Dec 2020
+            # give some points about what was your responsibilities at the company.
+            responsibilities:
+                - Developping methods based on probability, statistics and machine learning to infer Gene Regulatory Networks (GRNs) from temporal single-cell data.
+
+    - company:
           name: INRIA Research Laboratory
           url: "https://www.inria.fr/en"
           location: Paris, France
           # company overview
           overview: Inria is the French national research institute for digital science and technology. I joined [Astra-Vision](https://astra-vision.github.io/), the computer vision group of Astra team (in collaboration with Valeo.AI) which is mainly focused on studying 2D vision and 3D perception.
       positions:
-          - designation: Research Intern
+          - designation: ML Research Intern
             start: Apr 2024
             end: Sep 2024
 
@@ -26,7 +42,10 @@ experiences:
             # end: Dec 2020
             # give some points about what was your responsibilities at the company.
             responsibilities:
-                - Developing physics-driven learning approaches to create generalizable and interpretable models for motion dynamics and extreme deformations.
+                - Explored the ability of Graph Neural Networks to learn rigid body physics, and how it could augment 3D scenes with physics-based interactions. 
+                - Proposed a learning-based approach based on state-of-the-art methods
+                - Studied the generalization of physical laws from simulated data to out-of-distribution scenarios
+                - Master thesis [Learning physics of rigid bodies with Graph Neural Networks](files/masterthesis.pdf)
 
     - company:
           name: Ubisoft La Forge (research center of Ubisoft)
@@ -35,7 +54,7 @@ experiences:
           # company overview
           overview: Ubisoft La Forge is an open research and development initiative that brings together researchers and experts to bridge the gap between academic research and innovation in the video game world.
       positions:
-          - designation: Research Intern
+          - designation: ML Research Intern
             start: Feb 2023
             end: Aug 2023
 
@@ -67,7 +86,6 @@ experiences:
                 - Developed an R package for SIR thresholded [(see on github)](https://github.com/Clement-W/SIRthresholded). The package SIRthresholded is published in CRAN.
                 - Wrote a vignette explaining the method and how to use the package [(see on github pages)](https://clement-w.github.io/SIRthresholded/articles/SIRthresholded.html).
                 - Participated to the JDS 2022 conference (largest statistics conference in France). [See the slides](files/jds2022.pdf)
-                - Co-authoring a paper in the process of being submitted for the Computational Statistics journal.
 
     - company:
           name: Pollen Robotics

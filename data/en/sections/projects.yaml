@@ -115,13 +115,13 @@ projects:
       summary: Implementation of gradient descent algorithms (GD,SGD,BGD,...) for linear regression.
       tags: ["hobby", "ML", "Python"]
 
-    - name: Data analysis project
-      logo: /images/sections/skills/R.png
-      role: Homework
-      timeline: "June 2021"
-      url: "files/DS1A.pdf"
-      summary: Study the correlations of the musical and cinematographical tastes of young people.
-      tags: ["homework", "Statistics", "Data Science", "PCA", "R"]
+    # - name: Data analysis project
+    #   logo: /images/sections/skills/R.png
+    #   role: Homework
+    #   timeline: "June 2021"
+    #   url: "files/DS1A.pdf"
+    #   summary: Study the correlations of the musical and cinematographical tastes of young people.
+    #   tags: ["homework", "Statistics", "Data Science", "PCA", "R"]
 
     - name: Artifacts RogueLike
       logo: /images/sections/projects/github.png
@@ -139,19 +139,19 @@ projects:
       summary: Implementation of the board game Quarto in Prolog, with 3 levels of AI, including a variant of the MinMax algorithm.
       tags: ["homework", "Symbolic AI", "MinMax", "Prolog"]
 
-    - name: Statistical modeling project
-      logo: /images/sections/skills/R.png
-      role: Homework
-      timeline: "October 2021"
-      url: "files/DS2A.pdf"
-      summary: Model the sales of a gas station according to the variables available in the dataset.
-      tags: ["Multiple Linear Regression", "Statistics", "Data Science", "R"]
+    # - name: Statistical modeling project
+    #   logo: /images/sections/skills/R.png
+    #   role: Homework
+    #   timeline: "October 2021"
+    #   url: "files/DS2A.pdf"
+    #   summary: Model the sales of a gas station according to the variables available in the dataset.
+    #   tags: ["Multiple Linear Regression", "Statistics", "Data Science", "R"]
 
     - name: Survival Issues after Giant Asteroid Impact
       logo:
       role: Co-author
       timeline: "September 2020 - May 2021"
-      url: "https://artxiker.ccsd.cnrs.fr/INRIA-BORDEAUX/hal-03616479v1"
+      url: "https://hal.science/hal-03365973/"
       summary: Trans-disciplinary research project that has led to a scientific article presented by our tutor Jean-Marc Salotti at the International Astronautical Congress (IAC) 2021 at Dubai.
       tags:
           ["academic", "Transdisciplinary", "Planetary science", "Astrophysics"]

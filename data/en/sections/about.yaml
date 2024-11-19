@@ -8,22 +8,27 @@ section:
     template: sections/about.html
 
 # your designation
-designation: Master student
+designation: PhD student in ML for genomics
 # your company information
 company:
-    name: MVA - ENS Paris-Saclay
-    url: "https://www.master-mva.com/"
+    name: Institut Pasteur
+    url: "https://research.pasteur.fr/en/team/machine-learning-for-integrative-genomics/"
 
 # your resume. this file path should be relative to you "static" directory
 #resume: "files/resume.pdf"
 
 # a summary about you
-summary: "I am a passionate student at the research master MVA (Mathematics, Vision, Learning) at 
-ENS Paris-Saclay, currently looking for PhD opportunities for 2024. I graduated in 2023 from the Master of Engineering in computer science and 
-cognitive sciences (cognitics) at ENSC - Bordeaux INP. I have research internship experiences in applied mathematics and 
-machine learning at Inria and Ubisoft La Forge, here is an [updated CV](files/cv_weinreich_29052024.pdf). Don't hesitate to check my
-latest posts where I present some of my research projects. Also, got my first publication [Real-Time Neural Materials with Block-Compressed Features](https://gnader.github.io/publications/2024-neural-textures.html)
-accepted at Eurographics 2024!"
+# summary: "I am a passionate student at the research master MVA (Mathematics, Vision, Learning) at 
+# ENS Paris-Saclay, currently looking for PhD opportunities for 2024. I graduated in 2023 from the Master of Engineering in computer science and 
+# cognitive sciences (cognitics) at ENSC - Bordeaux INP. I have research internship experiences in applied mathematics and 
+# machine learning at Inria and Ubisoft La Forge, here is an [updated CV](files/cv_weinreich_29052024.pdf). Don't hesitate to check my
+# latest posts where I present some of my research projects. Also, got my first publication [Real-Time Neural Materials with Block-Compressed Features](https://gnader.github.io/publications/2024-neural-textures.html)
+# accepted at Eurographics 2024!"
+
+summary: "I am a PhD student in the [Machine Learning for Integrative Genomics team](https://research.pasteur.fr/en/team/machine-learning-for-integrative-genomics/) at Institut Pasteur and the [Pinello Lab](http://pinellolab.org/) at Harvard Medical School.
+Co-supervised by [Laura Cantini](https://research.pasteur.fr/en/member/laura-cantini/) and [Luca Pinello](https://dms.hms.harvard.edu/people/luca-pinello), my research focuses on developping methods based on probability, statistics and machine learning 
+to infer Gene Regulatory Networks (GRNs) from temporal single-cell data. I hold a Master's degree in Mathematics, Vision, and Learning [(Master MVA)](https://www.master-mva.com/) from ENS Paris-Saclay and an engineering degree from [ENSC Bordeaux INP](https://ensc.bordeaux-inp.fr/fr). 
+I also have research experience in applied mathematics and machine learning through internships at [Inria](https://inria.fr/fr) and [Ubisoft La Forge](https://www.ubisoft.com/fr-fr/studio/laforge)."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.

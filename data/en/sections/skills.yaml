@@ -3,7 +3,7 @@ section:
     name: Skills
     id: skills
     enable: true
-    weight: 2
+    weight: 4
     showOnNavbar: true
     # Can optionally hide the title in sections
     # hideTitle: true
@@ -45,4 +45,4 @@ skills:
 
     - name: Linux
       logo: "/images/sections/skills/linux.png"
-      summary: "I have been using Linux distributions as my main operating system for 6 years now."
+      summary: "I have been using Linux distributions as my main operating system for 7 years now."
