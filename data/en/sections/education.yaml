@@ -11,7 +11,7 @@ section:
 
 degrees:
 
-    - name: Master MVA (Mathematics, Vision, Learning)
+    - name: Master MVA (Mathematics, Vision, Learning) - 18.2/20
       icon: fa-graduation-cap
       timeframe: 2023-2024
       presentation: The MVA (Mathematics, Vision, Learning) is a Master 2 Research program created in 1996 by Robert Azencott. It is run by the Mathematics Department of ENS Paris-Saclay, co-accredited with the Institut Polytechnique de Paris, and shared with the École Nationale des Ponts et Chaussées and Université Paris Cité.
@@ -53,7 +53,7 @@ degrees:
               - name: Algorithms Design and Analysis
               - name: Introduction to Aerospace Science Engineering
 
-    - name: Master degree of Engineering in Computer Science and Cognitive Sciences
+    - name: Master degree of Engineering in Computer Science and Cognitive Sciences - Valedictorian 17.4/20
       icon: fa-graduation-cap
       timeframe: 2020-2023
       presentation: The Graduate  School of Cognitive Engineering is a Bordeaux INP engineering school and is a member of the Conférence des Grandes Ecoles. Its unique program in France provides engineers with dual expertise in computer science, IT and in cognitive science. This school puts a strong emphasis on human-centered design, and the importance of keeping the human in the loop.
